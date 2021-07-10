@@ -2,6 +2,8 @@
 
 Full stack software engineer.
 
+Languages I speak.
+
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
@@ -29,6 +31,10 @@ Full stack software engineer.
 
 <h3 align="center">  Recent Projects: </h3>
 
-#### 📲 QR-menu.rest [GitHub Repo Front](https://github.com/okorkov/qr-menu-frontend) | [GitHub Repo Back](https://github.com/okorkov/qr-menu-backend) | [Website](https://qr-menu.rest/)
+#### 🔥 Chat App [GitHub Repo Front](https://spack-a6e6b.web.app/) | [GitHub Repo Back](https://spack-a6e6b.web.app/) | [Website](https://spack-a6e6b.web.app/)
 
-qr-menu.rest is an online platform that was designed for bars and restaurants to freely host their menus on the cloud with generated QR code that points at it, however, there are no limitations on who can use it. During the pandemic many restaurants switched from paper menus to digital and planning to keep using them since it is more convenient to make changes, more eco-friendly, and less expensive to maintain. There are a few other similar services out there but the significant difference is that qr-menu.rest is free of charge! That's right, as the hospitality industry struggled throughout covid, this platform been created with the intention of supporting bars and restaurants by giving them an ability to host their QR menus for free.
+Chat app Slack clone
+
+#### 📲 Social Media [GitHub Repo Front](https://powerful-eyrie-37481.herokuapp.com/) | [GitHub Repo Back](https://powerful-eyrie-37481.herokuapp.com/) | [Website](https://powerful-eyrie-37481.herokuapp.com/)
+
+Social Media Website
