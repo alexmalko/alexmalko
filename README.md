@@ -9,16 +9,16 @@ Full stack software engineer.
 -->
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=okorkov&show_icons=true&theme=radical) -->
-
- <p align="center"> 
+<!--
+ <p align="center">
  <a href="https://ionicabizau.github.io/github-profile-languages/api.html?okorkov"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okorkov&layout=compact&theme=highcontrast&langs_count=10" alt="top languages"></a>
  </p>
 
 
- <p align="center"> 
+ <p align="center">
  <img src="http://github-readme-streak-stats.herokuapp.com?user=okorkov&theme=highcontrast&hide_border=true">
  <!-- <img src="https://github-readme-stats.vercel.app/api?username=okorkov&show_icons=true&count_private=true&theme=highcontrast"> -->
- </p>
+ </p> -->
 
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
