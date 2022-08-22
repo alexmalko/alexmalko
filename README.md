@@ -2,7 +2,7 @@
 
 Full stack software engineer.
 
-<!-- Languages I speak.
+Languages I speak.
 
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -35,4 +35,4 @@ Chat app Slack clone
 
 #### 📲 Social Media [GitHub Repo Front](https://powerful-eyrie-37481.herokuapp.com/) | [GitHub Repo Back](https://powerful-eyrie-37481.herokuapp.com/) | [Website](https://powerful-eyrie-37481.herokuapp.com/)
 
-Social Media Website -->
+Social Media Website
