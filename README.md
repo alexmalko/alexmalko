@@ -1,6 +1,6 @@
 # Hi there 👋 my name is Alex!
 
-Full stack software engineer.
+Front End software engineer.
 
 Languages I speak.
 
@@ -30,9 +30,3 @@ Languages I speak.
 <h3 align="center">  Recent Projects: </h3>
 
 #### 🔥 Chat App [GitHub Repo Front](https://spack-a6e6b.web.app/) | [GitHub Repo Back](https://spack-a6e6b.web.app/) | [Website](https://spack-a6e6b.web.app/)
-
-Chat app Slack clone
-
-#### 📲 Social Media [GitHub Repo Front](https://powerful-eyrie-37481.herokuapp.com/) | [GitHub Repo Back](https://powerful-eyrie-37481.herokuapp.com/) | [Website](https://powerful-eyrie-37481.herokuapp.com/)
-
-Social Media Website
